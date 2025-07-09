@@ -1,4 +1,4 @@
-from langchain_openai import OpenAI,ChatOpenAI
+from langchain_openai import OpenAI
 import os 
 from dotenv import load_dotenv
 from langchain_community.cache import InMemoryCache,SQLiteCache 
